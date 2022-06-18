@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                                file-handling.mq4 |
-//|                                  Copyright 2022,  . |
-//|                                       |
+//|                                               Copyright 2022,  . |
+//|Reads in string lines from txt. file and prints into terminal     |
 //+------------------------------------------------------------------+
 #property copyright "Copyright 2022, Gooey."
 #property link      
